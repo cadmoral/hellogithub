@@ -12,3 +12,5 @@ https://help.github.com/articles/fork-a-repo/
 3)  $ git commit -m"Étapes pour créer un commit", README.md
 
 4)   $ git push
+
+Dernier commit avec Git app on Atom
